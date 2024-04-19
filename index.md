@@ -21,3 +21,15 @@ I am a Ph.D. Student at Keio University, supervised by [Yoshimitsu Aoki](https:/
 
 {% include_relative _includes/publications.md %}
 
+## Work Experience
+- August 2022 - Present, Research Assistant.
+  - Computer Vision Research Team, National Institute of Advanced Industrial Science and Technology (AIST)
+
+## Education
+- Ph. D in Electrical Engineering,  April 2022 - March 2025 (expected).
+  - Department of Electronics and Electrical Engineering, Keio University, Kanagawa, Japan
+  - Prof. Yoshimitsu Aoki
+
+- Master in Engineering, April 2020 - March 2022.
+  - Graduate School of Humanities and Sciences, Ochanomizu University, Tokyo, Japan
+  - Prof. Ichiro Kobayashi
