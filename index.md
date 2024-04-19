@@ -19,7 +19,6 @@ I am a Ph.D. Student at Keio University, supervised by [Yoshimitsu Aoki](https:/
 - **[Jun. 2023]** A paper about vision-and-language navigation is accepted to Embodied AI Workshop in CVPR 2023.
 - **[Feb. 2023]** Our paper about change recognition is accepted to CVPR 2023.
 
-{% include_relative _includes/publications.md %}
 
 ## Work Experience
 - August 2022 - Present, Research Assistant.
@@ -33,3 +32,6 @@ I am a Ph.D. Student at Keio University, supervised by [Yoshimitsu Aoki](https:/
 - Master in Engineering, April 2020 - March 2022.
   - Graduate School of Humanities and Sciences, Ochanomizu University, Tokyo, Japan
   - Prof. Ichiro Kobayashi
+
+
+{% include_relative _includes/publications.md %}
