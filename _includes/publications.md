@@ -6,9 +6,9 @@
 
 ### International Conference
 
-- **Yanjun Sun***, Yue Qiu*, Mariia Khan, Fumiya Matsuzawa, Kenji Iwata, “The STVchrono Dataset: Towards Continuous Change Recognition in Time;” Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024 (Accept).
+- **Yanjun Sun**\*, Yue Qiu\*, Mariia Khan, Fumiya Matsuzawa, Kenji Iwata, “The STVchrono Dataset: Towards Continuous Change Recognition in Time;” Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024 (*equal contribution).
 
-- **Yanjun Sun**<, Yue Qiu, Yoshimitsu Aoki, Hirokatsu Kataoka, “Guided by the Way: The Role of On-the-route Objects and Scene Text in Enhancing Outdoor Navigation;” IEEE International Conference on Robotics and Automation (ICRA), 2024 (Accept).
+- **Yanjun Sun**<, Yue Qiu, Yoshimitsu Aoki, Hirokatsu Kataoka, “Guided by the Way: The Role of On-the-route Objects and Scene Text in Enhancing Outdoor Navigation;” IEEE International Conference on Robotics and Automation (ICRA), 2024.
 
 - **Yanjun Sun**, Yue Qiu, Yoshimitsu Aoki, Hirokatsu Kataoka, “Boosting Outdoor Vision-and-Language Navigation with On-the-route Objects;” Embodied AI Workshop in CVPR, 2023.
 
