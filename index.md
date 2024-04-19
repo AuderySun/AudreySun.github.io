@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Yanjun Sun is a Ph.D. Student at Keio University, supervised by Yoshimitsu Aoki. She also currently works as a research assistant
+(RA) at the National Institute of Advanced Industrial Science and Technology (AIST). She received her B.Sc. from Teikyo University
+and received her M.Sc. from Ochanomizu University.
 
 ## Research Interests
 
