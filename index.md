@@ -10,7 +10,7 @@ I am a Ph.D. Student at Keio University, supervised by [Yoshimitsu Aoki](https:/
 
 - **Multi-Modal:** vision and langauge, multi-modal LLM
 - **Embodied AI:** navigation, planning
-
+---
 ## News
 
 - **[Feb. 2024]** Our paper about continual change recognition is accepted to CVPR 2024.
@@ -19,11 +19,11 @@ I am a Ph.D. Student at Keio University, supervised by [Yoshimitsu Aoki](https:/
 - **[Jun. 2023]** A paper about vision-and-language navigation is accepted to Embodied AI Workshop in CVPR 2023.
 - **[Feb. 2023]** Our paper about change recognition is accepted to CVPR 2023.
 
-
+---
 ## Work Experience
 - **Research Assistant**, August 2022 - Present, 
   - Computer Vision Research Team, National Institute of Advanced Industrial Science and Technology (AIST)
-
+---
 ## Education
 - **Ph. D in Electrical Engineering**,  April 2022 - March 2025 (Expected), 
   - Department of Electronics and Electrical Engineering, Keio University, Kanagawa, Japan
@@ -33,5 +33,9 @@ I am a Ph.D. Student at Keio University, supervised by [Yoshimitsu Aoki](https:/
   - Graduate School of Humanities and Sciences, Ochanomizu University, Tokyo, Japan
   - Prof. Ichiro Kobayashi
 
-
+---
 {% include_relative _includes/publications.md %}
+
+---
+## Funding Source
+- JST Doctoral Program Student Support Project,  2022.4-2025.3.
