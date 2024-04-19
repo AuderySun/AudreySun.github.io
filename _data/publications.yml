@@ -2,38 +2,23 @@ main:
 
   - title: "The STVchrono Dataset: Towards Continuous Change Recognition in Time"
     authors: <strong>Yanjun Sun*</strong>, Yue Qiu*, Mariia Khan, Fumiya Matsuzawa, Kenji Iwata (*equal contribution)
-#    conference_short: CVPR
     conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
-#    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/AuderySun/STVchrono
-#    bibtex: https://bib.yliu.me/MICCAI23.txt
-#    image: ./assets/img/teaser_example_2.png
-#    notes: Early Accept
+
 
   - title: "Guided by the Way: The Role of On-the-route Objects and Scene Text in Enhancing Outdoor Navigation"
     authors: <strong>Yanjun Sun</strong>, Yue Qiu, Yoshimitsu Aoki, Hirokatsu Kataoka
-#    conference_short: ICRA
     conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2024.
-#    pdf: https://arxiv.org/pdf/2002.10211.pdf
-#    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-#    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-#    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-#    notes: Oral Presentation
-#    image: ./assets/img/teaser_example.png
 
   - title: "Boosting Outdoor Vision-and-Language Navigation with On-the-route Objects"
     authors: <strong>Yanjun Sun</strong>, Yue Qiu, Yoshimitsu Aoki, Hirokatsu Kataoka
-#    conference_short: Embodied AI Workshop
     conference: Embodied AI Workshop in CVPR, 2023.
 
 
   - title: "Graph Representation for Order-Aware Visual Transformation"
     authors: Yue Qiu, <strong>Yanjun Sun<strong>, Fumiya Matsuzawa, Kenji Iwata, Hirokatsu Kataoka
-#    conference_short: CVPR
     conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
 
 
   - title: "Evaluation of Video Compression for Facial Image Photoplethysmography in Time Series Space"
     authors: <strong>Yanjun Sun</strong>, Mitsuhiro Ogawa
-#    conference_short: LifeTech
     conference: IEEE 2nd Global Conference on Life Sciences and Technologies <strong>(LifeTech)</strong>, 2020.
