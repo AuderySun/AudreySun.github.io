@@ -2,12 +2,11 @@
 layout: homepage
 ---
 
-## Yanjun Sun (孫延君)
+## About Me
 
-I am a Ph.D. Student at Keio University, supervised by [Yoshimitsu Aoki](https://aoki-medialab.jp/aokiyoshimitsu/). I also currently works as a research assistant
-(RA) at the National Institute of Advanced Industrial Science and Technology (AIST), supervised by [Yue Qiu](https://qiuyue1993.github.io/qiuyue.github.com/). 
+I am a Ph.D. Student at Keio University, supervised by [Yoshimitsu Aoki](https://aoki-medialab.jp/aokiyoshimitsu/). I also currently works as a research assistant at the National Institute of Advanced Industrial Science and Technology (AIST), supervised by [Yue Qiu](https://qiuyue1993.github.io/qiuyue.github.com/). 
 
-## Research Interests
+### Research Interests
 
 - **Multi-Modal:** vision and langauge, multi-modal LLM
 - **Embodied AI:** navigation, planning
