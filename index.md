@@ -21,4 +21,3 @@ I am a Ph.D. Student at Keio University, supervised by [Yoshimitsu Aoki](https:/
 
 {% include_relative _includes/publications.md %}
 
-[//]: # ({% include_relative _includes/services.md %})
