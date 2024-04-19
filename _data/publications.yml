@@ -1,9 +1,7 @@
-main:
-
+ international:
   - title: "The STVchrono Dataset: Towards Continuous Change Recognition in Time"
     authors: <strong>Yanjun Sun*</strong>, Yue Qiu*, Mariia Khan, Fumiya Matsuzawa, Kenji Iwata (*equal contribution)
     conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
-
 
   - title: "Guided by the Way: The Role of On-the-route Objects and Scene Text in Enhancing Outdoor Navigation"
     authors: <strong>Yanjun Sun</strong>, Yue Qiu, Yoshimitsu Aoki, Hirokatsu Kataoka
@@ -13,11 +11,9 @@ main:
     authors: <strong>Yanjun Sun</strong>, Yue Qiu, Yoshimitsu Aoki, Hirokatsu Kataoka
     conference: Embodied AI Workshop in CVPR, 2023.
 
-
   - title: "Graph Representation for Order-Aware Visual Transformation"
     authors: Yue Qiu, <strong>Yanjun Sun<strong>, Fumiya Matsuzawa, Kenji Iwata, Hirokatsu Kataoka
     conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
-
 
   - title: "Evaluation of Video Compression for Facial Image Photoplethysmography in Time Series Space"
     authors: <strong>Yanjun Sun</strong>, Mitsuhiro Ogawa
