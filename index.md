@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. Student at Keio University, supervised by [Yoshimitsu Aoki](https://aoki-medialab.jp/aokiyoshimitsu/). She also currently works as a research assistant
+I am a Ph.D. Student at Keio University, supervised by [Yoshimitsu Aoki](https://aoki-medialab.jp/aokiyoshimitsu/). I also currently works as a research assistant
 (RA) at the National Institute of Advanced Industrial Science and Technology (AIST), supervised by [Yue Qiu](https://qiuyue1993.github.io/qiuyue.github.com/). 
 ## Research Interests
 
@@ -21,15 +21,15 @@ I am a Ph.D. Student at Keio University, supervised by [Yoshimitsu Aoki](https:/
 
 
 ## Work Experience
-- August 2022 - Present, Research Assistant.
+- **Research Assistant**, August 2022 - Present, 
   - Computer Vision Research Team, National Institute of Advanced Industrial Science and Technology (AIST)
 
 ## Education
-- Ph. D in Electrical Engineering,  April 2022 - March 2025 (expected).
+- **Ph. D in Electrical Engineering**,  April 2022 - March 2025 (Expected), 
   - Department of Electronics and Electrical Engineering, Keio University, Kanagawa, Japan
   - Prof. Yoshimitsu Aoki
 
-- Master in Engineering, April 2020 - March 2022.
+- **Master in Engineering**, April 2020 - March 2022.
   - Graduate School of Humanities and Sciences, Ochanomizu University, Tokyo, Japan
   - Prof. Ichiro Kobayashi
 
