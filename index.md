@@ -15,6 +15,7 @@ I am a Ph.D. Student at Keio University, supervised by [Yoshimitsu Aoki](https:/
 ---
 ## News
 
+- **[Apr. 2024]** We will host a challenge on [DICTA 2024](https://dicta2024.dictaconference.org/).
 - **[Feb. 2024]** Our paper about continual change recognition has been accepted to CVPR 2024.
 - **[Jan. 2024]** Our paper about vision-and-language navigation has been accepted to ICRA 2024.
 - **[Aug. 2023]** Presenting our work about vision-and-langauge navigation at MIRU 2023.
