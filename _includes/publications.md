@@ -5,6 +5,7 @@
 - **Yanjun Sun**, Yue Qiu, Yoshimitsu Aoki, Hirokatsu Kataoka, “Outdoor Vision-and-Language Navigation Needs Object-level Alignment;” Sensors 23(13), 6028, June 2023.
 
 ### International Conference
+- Fumiya Matsuzawa, Yue Qiu, **Yanjun Sun**, Kenji Iwata, Hirokatsu Kataoka, Yutaka Satoh, “Subtle-Diff: A Dataset for Precise Recognition of Subtle Differences Among Visually Similar Objects;“ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.
 
 - **Yanjun Sun**\*, Yue Qiu\*, Mariia Khan, Fumiya Matsuzawa, Kenji Iwata, “The STVchrono Dataset: Towards Continuous Change Recognition in Time;” Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024 (*equal contribution).
 
