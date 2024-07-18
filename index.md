@@ -19,17 +19,19 @@ I am a Ph.D. Student at Keio University, supervised by [Yoshimitsu Aoki](https:/
 - **[Feb. 2024]** Our paper about continual change recognition has been accepted to CVPR 2024.
 - **[Jan. 2024]** Our paper about vision-and-language navigation has been accepted to ICRA 2024.
 - **[Aug. 2023]** Presenting our work about vision-and-langauge navigation at MIRU 2023.
-- **[Jun. 2023]** A paper about vision-and-language navigation has been accepted to Embodied AI Workshop in CVPR 2023.
+- **[Jun. 2023]** A paper about vision-and-language navigation has been accepted to the Embodied AI Workshop in CVPR 2023.
 - **[Feb. 2023]** Our paper about change recognition has been accepted to CVPR 2023.
 
 ---
 ## Work Experience
-
-- **Research Assistant**, August 2022 - Present, 
+- **Research Internship**, July 2024 - Present, 
+  - Activity Understanding Team, CyberAgent Inc. AI Lab
+  
+- **Research Assistant**, August 2022 - June 2024, 
   - Computer Vision Research Team, National Institute of Advanced Industrial Science and Technology (AIST)
 
 ---
-
+ß
 ## Education
 
 - **Ph. D in Electrical Engineering**,  April 2022 - March 2025 (Expected), 
