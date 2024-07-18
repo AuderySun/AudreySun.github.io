@@ -31,7 +31,6 @@ I am a Ph.D. Student at Keio University, supervised by [Yoshimitsu Aoki](https:/
   - Computer Vision Research Team, National Institute of Advanced Industrial Science and Technology (AIST)
 
 ---
-ß
 ## Education
 
 - **Ph. D in Electrical Engineering**,  April 2022 - March 2025 (Expected), 
